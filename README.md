@@ -13,7 +13,7 @@ To install and start BukiOS, run:
 
 1.
 ```bash
-git clone https://github.com/yourusername/BukiOS.git
+git clone https://github.com/Usbugraus/BukiOS.git
 ```
 
 2.
