@@ -25,3 +25,4 @@ cd  BukiOS
 ```bash
 python Bootloader.py
 ```
+You can develop this operating system as you wish.
