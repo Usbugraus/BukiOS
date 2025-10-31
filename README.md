@@ -14,11 +14,14 @@ To install and start BukiOS, run:
 1.
 ```bash
 git clone https://github.com/yourusername/BukiOS.git
+```
 
 2.
 ```bash
 cd  BukiOS
+```
 
 3.
 ```bash
 python Bootloader.py
+```
