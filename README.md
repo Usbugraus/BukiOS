@@ -12,17 +12,17 @@ Coded with Python **3.14.0**
 ## Getting Started
 To install and start BukiOS, run:
 
-1.
+1. Clone the Repository
 ```bash
 git clone https://github.com/Usbugraus/BukiOS.git
 ```
 
-2.
+2. Go to the directory
 ```bash
-cd  BukiOS
+cd  BukiOS-1.0.10/BukiOS-1.0.10
 ```
 
-3.
+3. Run the bootloader
 ```bash
 python Bootloader.py
 ```
