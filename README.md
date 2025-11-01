@@ -6,6 +6,7 @@ Coded with Python **3.10.11**
 * Markdown editor
 * Python editor
 * Text editor
+* Json editor
 * Recovery mode
 * Auto module install system
 ## Getting Started
