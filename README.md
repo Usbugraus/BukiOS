@@ -1,10 +1,10 @@
 # BukiOS
-**BukiOS 1.0.10** - A Terminal Based Operating System. 
+**BukiOS 1.0.15** - A Terminal Based Operating System. 
 Coded with Python **3.14.0**
 
 ## Features
 * Markdown editor
-* Python editor
+* Python editor with Syntax highlighting
 * Text editor
 * Json editor
 * Recovery mode
